@@ -1,0 +1,15 @@
+/workspaces/LABORATORIO-PRINCIPIOS-SOLID/src/SolidLab.App/bin/Debug/net9.0/SolidLab.App
+/workspaces/LABORATORIO-PRINCIPIOS-SOLID/src/SolidLab.App/bin/Debug/net9.0/SolidLab.App.deps.json
+/workspaces/LABORATORIO-PRINCIPIOS-SOLID/src/SolidLab.App/bin/Debug/net9.0/SolidLab.App.runtimeconfig.json
+/workspaces/LABORATORIO-PRINCIPIOS-SOLID/src/SolidLab.App/bin/Debug/net9.0/SolidLab.App.dll
+/workspaces/LABORATORIO-PRINCIPIOS-SOLID/src/SolidLab.App/bin/Debug/net9.0/SolidLab.App.pdb
+/workspaces/LABORATORIO-PRINCIPIOS-SOLID/src/SolidLab.App/obj/Debug/net9.0/SolidLab.App.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/LABORATORIO-PRINCIPIOS-SOLID/src/SolidLab.App/obj/Debug/net9.0/SolidLab.App.AssemblyInfoInputs.cache
+/workspaces/LABORATORIO-PRINCIPIOS-SOLID/src/SolidLab.App/obj/Debug/net9.0/SolidLab.App.AssemblyInfo.cs
+/workspaces/LABORATORIO-PRINCIPIOS-SOLID/src/SolidLab.App/obj/Debug/net9.0/SolidLab.App.csproj.CoreCompileInputs.cache
+/workspaces/LABORATORIO-PRINCIPIOS-SOLID/src/SolidLab.App/obj/Debug/net9.0/SolidLab.App.sourcelink.json
+/workspaces/LABORATORIO-PRINCIPIOS-SOLID/src/SolidLab.App/obj/Debug/net9.0/SolidLab.App.dll
+/workspaces/LABORATORIO-PRINCIPIOS-SOLID/src/SolidLab.App/obj/Debug/net9.0/refint/SolidLab.App.dll
+/workspaces/LABORATORIO-PRINCIPIOS-SOLID/src/SolidLab.App/obj/Debug/net9.0/SolidLab.App.pdb
+/workspaces/LABORATORIO-PRINCIPIOS-SOLID/src/SolidLab.App/obj/Debug/net9.0/SolidLab.App.genruntimeconfig.cache
+/workspaces/LABORATORIO-PRINCIPIOS-SOLID/src/SolidLab.App/obj/Debug/net9.0/ref/SolidLab.App.dll
